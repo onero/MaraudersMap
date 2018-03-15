@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Marauders Map</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="seattle">Seattle</string>
+    <string name="swear">I solemnly swear that i am up to no good!</string>
+</resources>

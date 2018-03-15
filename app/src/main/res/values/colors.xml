@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="adaminoGreen">#51b46d</color>
+    <color name="adaminoRed">#e15258</color>
+    <color name="adaminoOrange">#f9845b</color>
+    <color name="adaminoBlue">#53bbb4</color>
+
+</resources>
